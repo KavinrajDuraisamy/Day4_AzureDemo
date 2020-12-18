@@ -15,7 +15,7 @@ namespace SampleWeb_K8_AppAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Kavinraj's page";
+            ViewBag.Message = "Kavinraj Duraisamy's page";
 
             return View();
         }
